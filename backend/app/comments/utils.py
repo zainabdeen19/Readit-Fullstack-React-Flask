@@ -13,3 +13,4 @@ def create_comment_tree(comments, cur_user=None):
         elif comment.parent_id in comment_dict:
             comment_dict[comment.parent_id]["children"].append(comment_data)
     return root_comments
+# Random change 18228
