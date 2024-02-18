@@ -144,3 +144,4 @@ class UsersKarma(db.Model):
             "posts_count": self.posts_count,
             "posts_karma": self.posts_karma,
         }
+# Random change 8476
