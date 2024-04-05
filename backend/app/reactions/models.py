@@ -38,3 +38,4 @@ class Reactions(db.Model):
             "is_upvote": self.is_upvote,
             "created_at": self.created_at,
         }
+# Random change 7379
