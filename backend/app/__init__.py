@@ -65,3 +65,4 @@ app.register_blueprint(posts)
 app.register_blueprint(comments)
 app.register_blueprint(reactions)
 app.register_blueprint(messages)
+# Random change 21425
